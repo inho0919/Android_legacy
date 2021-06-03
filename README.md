@@ -5,3 +5,4 @@
 - TTS API
 - Send SMS
 - KAKAO Talk Receive
+- SMS Receive
